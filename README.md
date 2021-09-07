@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+1. We will have courses in our university that students can enroll in
 
-Things you may want to cover:
+2. Courses will have short name, name, description
 
-* Ruby version
+3. The index page will have a listing of courses that are available
 
-* System dependencies
+4. Let's add some placeholder courses
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+5. Let's talk about styling the app - frameworks 
